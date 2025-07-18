@@ -2,8 +2,8 @@
 // HR Management System - MySQL Configuration
 // Update these credentials to match your MySQL server
 $host = 'localhost';
-$username = 'root';
-$password = '';
+$username = 'hruser';
+$password = 'password';
 $database = 'hr_management';
 
 // Create MySQL connection

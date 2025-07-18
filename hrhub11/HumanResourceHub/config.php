@@ -4,7 +4,7 @@
 $host = 'localhost';
 $username = 'hruser';
 $password = 'password';
-$database = 'hr_management';
+$database = 'hr_management_fresh';
 
 // Create MySQL connection
 $conn = new mysqli($host, $username, $password, $database);
